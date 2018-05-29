@@ -1,0 +1,45 @@
+body {
+	margin: 0;
+	margin-left: 10px;
+	padding: 0;
+	font-family: "Arial", serif;
+	background-color: 
+}
+
+nav {
+	width: 100%;
+	background-color: dimgrey;
+	overflow: hidden;
+	height: 60px;
+	margin-left: -10px;
+	padding-right: 10px;
+}
+nav a {
+	display: inline-block;
+	text-decoration: none;
+	font-family: "Arial", serif;
+	color: white;
+	padding: 20px 10px 20px 10px;
+}
+nav a:hover {
+	background-color: darkgrey;
+}
+#logo {
+	font-family: "Verdana", serif;
+	margin-left: 0px;
+	font-size: 25px;
+	padding: 12.5px 40px 17.5px 20px;
+
+}
+#logo:hover {
+	background-color: dimgrey;
+}
+
+
+#title {
+	font-family: "Verdana", serif;
+}
+
+p {
+	color: rgb(66,72,76);
+}
